@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learn-polish/static/css/main.7acaea2f.css",
+    "main.js": "/learn-polish/static/js/main.07d3183d.js",
+    "index.html": "/learn-polish/index.html",
+    "main.7acaea2f.css.map": "/learn-polish/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/learn-polish/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
